@@ -1,0 +1,11 @@
+{
+    "name": "hellomjw/composer-test",
+    "description": "this is composer pack test",
+    "type": "libray",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "mypack\\myclass\\": "mypack/"
+        }
+    }
+}
