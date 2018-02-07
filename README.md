@@ -68,3 +68,11 @@ echo $mypack->hellopack();
 运行 `php myclass.php`  输出`hello composer`  
 
 ### 现在本地composer开发测试完成. 下步上传到composer并让其自动拉取github变更
+
+
+step1 在composer网站上提交github仓库地址
+
+注册或登录composer后, 打开地址`https://packagist.org/packages/submit`,
+把仓库地址复制粘贴到输入框中提交
+
+

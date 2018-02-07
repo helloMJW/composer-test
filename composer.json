@@ -2,10 +2,12 @@
     "name": "hellomjw/composer-test",
     "description": "this is composer pack test",
     "type": "libray",
+    "minimum-stability": "dev",
     "require": {},
     "autoload": {
         "psr-4": {
             "mypack\\myclass\\": "mypack/"
         }
     }
+
 }
