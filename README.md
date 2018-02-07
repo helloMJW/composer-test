@@ -2,6 +2,8 @@
 
 > php-composer测试-composer包本地开发调试与自动拉取github
 
+[blog-完整记录](http://www.majianwei.com/composer/)
+
 ### step1-建立文件夹
 ```
 |--composer-test
