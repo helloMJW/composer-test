@@ -12,4 +12,9 @@ class mypackclass
 	{
 		return 'add function';
 	}
+	
+	public function test2()
+	{
+		return 'add test2 function';
+	}
 }
