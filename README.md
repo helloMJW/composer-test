@@ -124,5 +124,7 @@ A:
 #### 参考资料
 
 [Composer & Laravel 包本地开发](https://segmentfault.com/a/1190000010891972)
+
 [composer 将远程的包更改为本地开发模式](http://www.111cn.net/phper/php-cy/111484.htm)
+
 [How to update packages](https://packagist.org/about#how-to-update-packages)
