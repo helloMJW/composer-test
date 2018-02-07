@@ -8,4 +8,8 @@ class mypackclass
 		return 'hello-composer';
 	}
 
+	public function test()
+	{
+		return 'add function';
+	}
 }
